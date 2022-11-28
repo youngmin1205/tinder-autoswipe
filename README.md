@@ -14,4 +14,4 @@ virtualenv venv
 python3 -i tinder-bot.py
 ```
 ### Source
-Source Tutorial I followed: https://www.youtube.com/watch?v=lvFAuUcowT4&t=302s
+Source Tutorial I followed: https://youtu.be/lvFAuUcowT4
